@@ -1,0 +1,13 @@
+{
+  "name": "angular-routing-app",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Indra Nugraha"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/indranugraha/angular-routing-app",
+  "moduleType": [
+    "node"
+  ]
+}
