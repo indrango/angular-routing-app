@@ -1,4 +1,4 @@
-var app = angular.module('routerApp', ['routerRoutes'])
+var app = angular.module('routerApp', ['routerRoutes', 'ngAnimate'])
 
 app.controller('mainController',function($scope) {
   $scope.bigMessage = "All the single ladies";
